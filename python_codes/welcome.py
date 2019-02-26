@@ -1,0 +1,1 @@
+print("File System -->Spark SQL ---> Cassardra --->Spark ML --->Train on this data Model ---> File System --->Spark Streaming --->>  Getting data from kafkajjjj")
